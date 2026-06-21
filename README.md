@@ -206,36 +206,6 @@ Developed an interactive dashboard containing:
 
 ---
 
-## 🚀 Business Recommendations
-
-### Increase Subscription Adoption
-
-Offer:
-
-* Exclusive discounts
-* Loyalty rewards
-* Early product access
-
-### Improve Customer Retention
-
-* Reward repeat buyers
-* Create loyalty programs
-
-### Optimize Discount Strategy
-
-* Focus discounts on products that respond positively to promotions
-
-### Targeted Marketing
-
-* Prioritize high-revenue age groups
-* Personalize campaigns based on customer segments
-
-### Product Promotion
-
-* Highlight top-rated and best-selling products
-
----
-
 ## 📁 Project Structure
 
 ```bash
