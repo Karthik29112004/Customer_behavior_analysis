@@ -4,7 +4,7 @@
 
 Customer Shopping Behavior Analysis is a Data Analytics project focused on understanding customer purchasing patterns, spending habits, product preferences, and subscription behavior using transactional retail data.
 
-The project combines **Python, PostgreSQL, and Power BI** to perform data cleaning, exploratory data analysis, business intelligence reporting, and interactive dashboard creation.
+The project combines **Python, MYSQL, and Power BI** to perform data cleaning, exploratory data analysis, business intelligence reporting, and interactive dashboard creation.
 
 The objective is to generate actionable business insights that can help organizations improve customer retention, optimize marketing strategies, and increase revenue.
 
@@ -70,7 +70,7 @@ This project aims to answer key business questions such as:
 | Python     | Data Cleaning & EDA         |
 | Pandas     | Data Manipulation           |
 | NumPy      | Numerical Operations        |
-| PostgreSQL | Business Analysis using SQL |
+| MYSQL | Business Analysis using SQL |
 | Power BI   | Interactive Dashboard       |
 | SQL        | Data Querying & Insights    |
 
@@ -278,6 +278,6 @@ Customer-Shopping-Behavior-Analysis/
 
 **Karthik B**
 
-Aspiring Data Analyst | Python | SQL | Power BI | PostgreSQL
+Aspiring Data Analyst | Python | SQL | Power BI
 
 Open to Data Analyst and Business Analyst opportunities.
